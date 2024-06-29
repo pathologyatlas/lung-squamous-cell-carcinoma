@@ -1,13 +1,9 @@
 *.svs
 .vscode/settings.json
 .Rproj.user
-HE4_files
-HE4.dzi
-HE4.html
 .Rhistory
 renv.lock
 renv/activate.R
-HE2_files
 .DS_Store
 CD20_files
 CD20.dzi
@@ -23,6 +19,13 @@ HE-gastritis.dzi
 HE-gastritis.html
 HE-deneme2.html
 TwoChannelExample.zip
+HEome.*
+imageome_files
+imageome.dzi
+HEtif.html
+imagetif_files
+imagetif.dzi
+*.tif
 
 
 /.quarto/

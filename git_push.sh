@@ -22,7 +22,15 @@
 # increases the git http buffer size to 500 MB
 # git config --global http.postBuffer 524288000
 
-files=( $(find ./ -type f) )
+# files=( $(find ./ -type f) )
+
+# Get all tracked files, respecting .gitignore
+# mapfile -t files < <(git ls-files)
+
+
+# Get all tracked files, respecting .gitignore
+IFS=$'\n' read -d '' -r -a files < <(git ls-files)
+
 
 
 batch_size=4000
