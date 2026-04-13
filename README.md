@@ -101,6 +101,23 @@ See Microscopy with viewer:
 
 <iframe src="https://images.patolojiatlasi.com/lung-squamous-cell-carcinoma/HE4.html" style="height:600px;width:100%;" data-external="1"></iframe>
 
+
+
+---
+
+### Viewing Modes
+
+- [All Stains (Sequential)](https://images.patolojiatlasi.com/lung-squamous-cell-carcinoma/all.html) - Browse HE2, HE1, HE2, HE3, HE4, HE stains in sequence
+- [Side by Side Comparison](https://images.patolojiatlasi.com/lung-squamous-cell-carcinoma/sidebyside.html) - View stains in synchronized panels
+- [Curtain Comparison](https://images.patolojiatlasi.com/lung-squamous-cell-carcinoma/curtain.html) - Overlay two stains with a draggable slider
+
+### Görüntüleme Modları
+
+- [Tüm Boyamalar (Sıralı)](https://images.patolojiatlasi.com/lung-squamous-cell-carcinoma/all.html) - Tüm boyamaları sırayla inceleyin
+- [Yan Yana Karşılaştırma](https://images.patolojiatlasi.com/lung-squamous-cell-carcinoma/sidebyside.html) - Boyamaları eş zamanlı panellerde görüntüleyin
+- [Perde Karşılaştırma](https://images.patolojiatlasi.com/lung-squamous-cell-carcinoma/curtain.html) - İki boyamayı sürgülü perde ile karşılaştırın
+
+
 ```yaml
 - stainname: lung-squamous-cell-carcinoma-HE1
   reponame: lung-squamous-cell-carcinoma
